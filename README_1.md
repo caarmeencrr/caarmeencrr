@@ -10,7 +10,7 @@ Mi formación combina una base sólida en matemáticas con una especialización 
 
 ### [TFM: Smart Food Recommender](https://github.com/caarmeencrr/TFM-smart-food-recommender)
 
-Trabajo Fin de Máster centrado en el desarrollo de un sistema de recomendación de alimentos basado en IA. *(Añade en el propio repo una breve descripción del problema que resuelve, la solución técnica y los resultados obtenidos — es lo primero que van a leer.)*
+Trabajo Fin de Máster centrado en el desarrollo de un sistema de recomendación de alimentos basado en IA.
 
 ## Otros proyectos del máster
 
