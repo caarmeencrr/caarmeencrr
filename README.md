@@ -23,7 +23,7 @@ Dashboard interactivo sobre mi propio historial de escucha: evolución temporal,
   - [Algoritmos de Optimización](https://github.com/caarmeencrr/master-ia-viu/tree/main/algoritmos-optimizacion)
   - [Matemáticas para la IA](https://github.com/caarmeencrr/master-ia-viu/tree/main/matematicas-ia)
   - [Aprendizaje Supervisado](https://github.com/caarmeencrr/master-ia-viu/tree/main/aprendizaje-supervisado) — incluye un proyecto de detección automática de matrículas de coche con OpenCV y OCR
-  - [Análisis de datos de salud](https://github.com/caarmeencrr/master-ia-viu/tree/main/python-exercises/analisis_vitamina_d_sueno) — relación entre vitamina D, sueño y actividad física
+  - [Análisis de datos de salud](https://github.com/caarmeencrr/master-ia-viu/tree/main/python-exercises/analisis_vitamina_d_sueno.ipynb) — relación entre vitamina D, sueño y actividad física
   - [Python Exercises](https://github.com/caarmeencrr/master-ia-viu/tree/main/python-exercises) - Python para la Inteligencia Artificial.
 
 ## Formación complementaria
