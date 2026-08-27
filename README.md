@@ -4,7 +4,7 @@ Graduada en Matemáticas por la Universidad de Extremadura y cursando el Máster
 
 ## Sobre mí
 
-Mi formación combina una base sólida en matemáticas con una especialización en inteligencia artificial y machine learning. Durante el máster he trabajado en optimización, modelos de aprendizaje supervisado y aplicaciones prácticas de IA, con especial interés en cómo estas técnicas pueden resolver problemas reales.
+Mi formación hasta ahora combina matemáticas con especialización en inteligencia artificial y machine learning. Durante el máster he trabajado en optimización, modelos de aprendizaje supervisado y aplicaciones prácticas de IA. Tengo especial interés en cómo estas técnicas pueden resolver problemas reales.
 
 ## Proyecto destacado
 
